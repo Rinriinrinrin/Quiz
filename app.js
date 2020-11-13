@@ -1,8 +1,8 @@
 const quiz = [
   {
-    question: 'ゲーム史上、最も売れたゲーム機はどれ？',
-    answers: [ 'スーパーファミコン', 'PlayStation 2', 'ニンテンドーDS', 'Xbox 360'],
-    correct: 'ニンテンドーDS'
+    question: '小売業者は',
+    answers: [ 'Double Opt-In', 'Website Signups', 'List Detective', 'Single Opt-In'],
+    correct: 'Double Opt-In'
   }, {
     question: '糸井重里が企画に関わった、任天堂の看板ゲームといえば？',
     answers: [ 'MOTHER2', 'スーパーマリオブラザーズ3', 'スーパードンキーコング', '星のカービィ'],
