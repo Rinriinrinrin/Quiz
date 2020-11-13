@@ -1,6 +1,6 @@
 const quiz = [
   {
-    question: '小売業者は',
+    question: '小売業者は、顧客にチェックアウト時にメールアドレスを入力してプロモーションメールを受信するように依頼することにより、店舗でメールアドレスを収集しています。これらのアドレスに送信すると、多くは有効ではないためバウンスします。マーケティングチームは、これに対処するための買収戦略を実装したいと考えています。どの戦略を使用する必要がありますか？',
     answers: [ 'Double Opt-In', 'Website Signups', 'List Detective', 'Single Opt-In'],
     correct: 'Double Opt-In'
   }, {
