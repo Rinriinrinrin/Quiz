@@ -4,13 +4,13 @@ const quiz = [
     answers: [ 'Double Opt-In', 'Website Signups', 'List Detective', 'Single Opt-In'],
     correct: 'Double Opt-In'
   }, {
-    question: '糸井重里が企画に関わった、任天堂の看板ゲームといえば？',
-    answers: [ 'MOTHER2', 'スーパーマリオブラザーズ3', 'スーパードンキーコング', '星のカービィ'],
-    correct: 'MOTHER2'
+    question: '小売業者がストアでメールアドレスを収集して、顧客にチェックアウト時にメールアドレスを入力してプロモーションメールを受信するように依頼しました。これらのアドレスに何度も送信すると、有効ではないため、マーケティングチームはこれに対処するための獲得戦略を実装したいと考えています。戦略を使用する必要があります。',
+    answers: [ 'website sign on', 'list detectives', 'single opt in', 'double opt in'],
+    correct: 'double opt in'
   }, {
-    question: 'ファイナルファンタジーⅣの主人公の名前は？',
-    answers: [ 'フリオニール', 'クラウド', 'ティーダ', 'セシル'],
-    correct: 'セシル'
+    question: '潜在的でアクティブなサブスクライバーと対話するためのベストプラクティスは？',
+    answers: [ 'CAN SPAM法に従う', '必ずメールのオプトインを必須にする', '登録解除を簡単にする', '提供されたメールアドレスのみを使用'],
+    correct: 'CAN SPAM法に従う'
   }
 ];
 
